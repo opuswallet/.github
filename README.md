@@ -1,3 +1,3 @@
-Opus is the world's simplest crypto wallet.
+# .github
 
-We're hiring. [View our job openings here](github.com/opuswallet/opus-jobs).
+Configs for the Opus GitHub page
